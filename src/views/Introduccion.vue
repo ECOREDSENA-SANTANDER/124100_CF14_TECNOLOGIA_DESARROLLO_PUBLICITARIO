@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p.mb-5(data-aos="zoom-in-left") Para la elaboración de este componente se abordaron varios autores conocidos en el tema del desarrollo creativo de piezas gráficas, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia en el entendido que el conocimiento es social y, por lo tanto, es para usarlo por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos, aprendices y lectores en general, que estén interesados en acercarse al diseño de piezas gráficas. 
+    p.mb-5(data-aos="zoom-in-left") En el siguiente video se da introducción a los temas que se trabajarán en este componente formativo:  
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

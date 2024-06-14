@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Diseño de piezas gráficas',
+    componenteFormativo: 'Pre y Postest de Campaña',
     descripcionCurso:
-      'Una pieza gráfica es una composición visual de diseño que se compone, por lo general, de texto, imagen y logo de la marca; su objetivo es transmitir un mensaje al consumidor o usuario, a través de estos elementos integrados en un concepto creativo que genere recordación y una respuesta por parte del público objetivo de la marca.',
+      'El pretest y el postest hacen parte del control que se realiza a la campaña publicitaria, de acuerdo con el proceso de la comunicación. Este control se lleva a cabo sobre el mensaje, la planeación de las estrategias y los resultados de la campaña.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [

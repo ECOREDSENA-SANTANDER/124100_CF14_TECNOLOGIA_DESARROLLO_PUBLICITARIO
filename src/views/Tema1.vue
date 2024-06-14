@@ -6,262 +6,190 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1 Desarrollo creativo de las piezas gráficas
+      h1 Medición de la campaña publicitaria
 
-    .row.align-items-center.justify-content-between(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-1.d-none.d-lg-block
-        img(src='@/assets/curso/temas/tema1/img1.svg', alt='Promoción de ventas')          
-      .col-sm-12.col-lg-11
-        p.mb-0 La pieza publicitaria para medios impresos o digitales es el resultado de un proceso prolongado de investigación, análisis y desarrollo creativo, que ya se ha estudiado en otros componentes. Una pieza gráfica está compuesta por varios elementos que se ajustan y conforman el mensaje para llegar al mercado objetivo, informarlo, persuadirlo y hacer que adquiera el producto o servicio que se está promocionando.
-
+    .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+      .col-lg-3.col-6
+        img(src='@/assets/tema1/img01.png', alt='')          
+      .col-sm-12.col-lg-9
+        p.mb-0 Cuando en una empresa se toma la decisión de realizar una campaña publicitaria, una estrategia táctica de comunicación o sencillamente un anuncio, se hace con el fin de obtener respuestas positivas de sus clientes y lograr los objetivos propuestos. Además, la promoción hace parte del mercadeo y es una de sus variables más importantes; nada logra una empresa teniendo un excelente producto si no le comunica al mercado que este existe y está disponible en puntos de venta, que satisface sus necesidades y que presenta ciertos beneficios. Luego, el mercado toma la decisión de compra basado en estas variables, por lo que entre más oportuna y completa sea la información, mayor será el nivel de aceptación del producto o servicio.
+        .py-2
+        .cajon.color-secundario.px-3.py-3.mb-4
+          p Así, el pretest y el postest forman parte del control que se realiza a la campaña publicitaria y de acuerdo con el proceso de la comunicación; este control se lleva a cabo sobre el mensaje, la planeación de las estrategias y los resultados de la campaña.
+    
+    .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+      .col-lg-9
+        .row.justify-content-center
+          .col-lg-1.col-4
+            img(src='@/assets/tema1/img03.svg', alt='')
+          .col-sm-12.col-lg-11
+            p En cuanto #[b al mensaje, este se puede evaluar antes y después del lanzamiento de la campaña]; y un estudio previo a la campaña permite seleccionar el más adecuado, realizar todos los cambios pertinentes y evitar que sea incomprensible, erróneo o ambiguo. Mientras que el análisis posterior permite medir el nivel de comprensión real que el mercado tuvo del mensaje y la realización de correcciones para publicaciones futuras.
+          .col-lg-1.col-4
+            img(src='@/assets/tema1/img04.svg', alt='')
+          .col-sm-12.col-lg-11
+            p Por su parte, #[b la planeación se analiza con base en el nivel de información que se haya recolectado] para la toma de decisiones y la efectividad de la campaña de acuerdo con los indicadores de gestión de la misma, el impacto que el mensaje haya tenido en el mercado y el aumento en ventas después de la campaña.
+      .col-lg-3.col-8
+        img(src='@/assets/tema1/img02.svg', alt='')
+    
+    
     Separador  
     #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
-      h2  1.1  Estructura del anuncio publicitario     
-    p.mb-5(data-aos="zoom-in-left") El anuncio es la punta del iceberg en la campaña publicitaria; es el elemento que da evidencia del análisis y de las estrategias que se han desarrollado durante todo el proceso creativo, además, tiene una estructura que puede variar de acuerdo con la necesidad y el estilo del anuncio. Estos son los elementos que conforman un anuncio publicitario:
-              
+      h2  1.1 ¿Qué se requiere para medir la campaña?    
+ 
+    .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+      .col-lg-3.col-8
+        img(src='@/assets/tema1/img05.svg', alt='')
+      .col-sm-12.col-lg-9
+        SlyderF.mb-5(columnas="col-lg-5 col-xl-5")(data-aos="zoom-in-left")
+          .tarjeta.color-secundario-cus.p-4
+            .row.justify-content-center.mb-3
+              .col-sm-4.col-lg-4.my-5.col-4
+                img(src='@/assets/tema1/img06.svg')
+            p.text-center Tener claros los objetivos y los indicadores que se buscan medir.
+          
+          .tarjeta.color-secundario-cus.p-4
+            .row.justify-content-center.mb-3
+              .col-sm-4.col-lg-4.my-5.col-4
+                img(src='@/assets/tema1/img07.svg')
+            p.text-center Planear los test al detalle; es decir, que se logren detectar detalles mínimos del mensaje para maximizar su eficacia.
+            
+            
+          .tarjeta.color-secundario-cus.p-4
+            .row.justify-content-center.mb-3
+              .col-sm-4.col-lg-4.my-5.col-4
+                img(src='@/assets/tema1/img08.svg')
+            p.text-center La medición debe realizarse con total imparcialidad e independencia, el sesgo en los resultados puede resultar dañino para la campaña.
+    
+          .tarjeta.color-secundario-cus.p-4
+            .row.justify-content-center.mb-3
+              .col-sm-4.col-lg-4.my-5.col-4
+                img(src='@/assets/tema1/img09.svg')
+            p.text-center La información debe ser clara y comprensible para todo el equipo de la campaña y para los empresarios. La medición debe arrojar recomendaciones y posibles acciones de mejora.
+    
+          .tarjeta.color-secundario-cus.p-4
+            .row.justify-content-center.mb-3
+              .col-sm-4.col-lg-4.my-5.col-4
+                img(src='@/assets/tema1/img10.svg')
+            p.text-center En lo posible, realizar varias mediciones que permitan corroborar los datos entre ellas para tomar decisiones eficientes.
+    
+    
+          .tarjeta.color-secundario-cus.p-4
+            .row.justify-content-center.mb-3
+              .col-sm-4.col-lg-4.my-5.col-4
+                img(src='@/assets/tema1/img11.svg')
+            p.text-center Las mediciones deben estar pensadas en datos generados por respuestas del público a la comunicación, en cuanto a compresión y a la respuesta generada.
+    
+    
+          .tarjeta.color-secundario-cus.p-4
+            .row.justify-content-center.mb-3
+              .col-sm-4.col-lg-4.my-5.col-4
+                img(src='@/assets/tema1/img12.svg')
+            p.text-center La selección de la muestra y el perfil de la misma es primordial para lograr los objetivos propuestos por la medición.
 
-    .row.justify-content-between.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
-        .bg1.px-1.py-3.h-card.mb-cus
-          .row.justify-content-center.align-items-center.my-4
-            .col-lg-6.d-none.d-lg-block
-              img(src='@/assets/curso/temas/tema1/img2.svg')
-          .title-card.bg2.mx-2 Encabezado
-          p.mt-4.text-center.mx-2 Es el elemento más importante, ya que complementa y se apoya en las imágenes para transmitir un mensaje claro, contundente y persuasivo.
-
-      .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
-        .bg1.px-1.py-3.h-card.mb-cus
-          .row.justify-content-center.align-items-center.my-4
-            .col-lg-6.d-none.d-lg-block
-              img(src='@/assets/curso/temas/tema1/img3.svg')
-          .title-card.bg2.mx-2 Cuerpo del texto
-          p.mt-4.text-center.mx-2 Texto compuesto por uno o varios párrafos; describe el producto, menciona las promesas secundarias y refuerza la comunicación iniciada con el titular o complementa la imagen.
-
-      .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
-        .bg1.px-1.py-3.h-card.mb-cus
-          .row.justify-content-center.align-items-center.my-4
-            .col-lg-6.d-none.d-lg-block
-              img(src='@/assets/curso/temas/tema1/img4.svg')
-          .title-card.bg2.mx-2 Layout
-          p.mt-4.text-center.mx-2 Estructura gráfica y compositiva del anuncio; define la ubicación de los elementos dentro del formato.
-
-
-      .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
-        .bg1.px-1.py-3.h-card.mb-cus
-          .row.justify-content-center.align-items-center.my-4
-            .col-lg-6.d-none.d-lg-block
-              img(src='@/assets/curso/temas/tema1/img5.svg')
-          .title-card.bg2.mx-2 Pie de anuncio
-          p.mt-4.text-center.mx-2 Hace referencia al anunciante y a los diferentes puntos de contacto: sitios web, redes sociales, teléfonos, correo electrónico y ubicación del punto de venta. Es el elemento que permite el proceso de retroalimentación.
-
-      .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
-        .bg1.px-1.py-3.h-card.mb-cus
-          .row.justify-content-center.align-items-center.my-4
-            .col-lg-6.d-none.d-lg-block
-              img(src='@/assets/curso/temas/tema1/img6.svg')
-          .title-card.bg2.mx-2 El mensaje
-          p.mt-4.text-center.mx-2 Es la razón de ser del anuncio y de la campaña; comunica los beneficios y promesas del producto o servicio y dice lo que el mercado quiere o necesita saber.  
-
-
-    p.mb-5(data-aos="zoom-in-left") El mensaje presenta una serie de características:
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
-      .tarjeta.color-secundario-cus.p-4
-        .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
-            img(src='@/assets/curso/temas/tema1/img7.svg')
-        p.text-center #[strong Pertenencia:] determina con base en la técnica de comunicación y de la campaña si el mensaje es de origen periodístico, de relaciones públicas, de propaganda, de promoción de ventas o de publicidad.
-       
-       
-      .tarjeta.color-secundario-cus.p-4
-        .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
-            img(src='@/assets/curso/temas/tema1/img8.svg')
-        p.text-center #[strong Referencia del emisor:] el anuncio hace referencia al anunciante.
-         
-         
-      .tarjeta.color-secundario-cus.p-4
-        .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
-            img(src='@/assets/curso/temas/tema1/img9.svg')
-        p.text-center #[strong Escritural:] hace referencia al mercado objetivo.
-       
-       
-      .tarjeta.color-secundario-cus.p-4
-        .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
-            img(src='@/assets/curso/temas/tema1/img10.svg')
-        p.text-center #[strong Icónico:] uso de dibujos, gráficos, fotos e incluso el logo del producto o del anunciante.
-         
-         
-      .tarjeta.color-secundario-cus.p-4
-        .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
-            img(src='@/assets/curso/temas/tema1/img11.svg')
-        p.text-center #[strong Inferencia:] se enfoca en la captación de bondades, beneficios o promesas del producto o servicio.
-
-    p.mb-5(data-aos="zoom-in-left") Adicionalmente, el mensaje presenta una serie de funciones en relación con la comunicación:
-    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-3.mb-cus
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img12.svg')
-          .tarjeta.color-secundario-cus-2.w-100
-            .p-4.text-center
-              p.mb-0 #[strong Emotiva:] identifica la empresa a través de logos, marcas, nombres y eslogan.
-      .col-sm-12.col-lg-3.mb-cus
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img13.svg')
-          .tarjeta.color-secundario-cus-2.w-100
-            .p-4.text-center
-              p.mb-0 #[strong Conativa:] utiliza palabras que hablan de forma directa al espectador, “hágalo ya”, “debe comenzar ahora mismo”.
-      .col-sm-12.col-lg-3.mb-cus
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img14.svg')
-          .tarjeta.color-secundario-cus-2.w-100
-            .p-4.text-center
-              p.mb-0 #[strong Poética:] referencia artística a cuadros, frases poéticas, música u otras expresiones artísticas.
-      .col-sm-12.col-lg-3.mb-cus
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img15.svg')
-          .tarjeta.color-secundario-cus-2.w-100
-            .p-4.text-center
-              p.mb-0 #[strong Fática:] direcciones, teléfonos, sitios web, redes sociales o ubicación de la empresa.
+          .tarjeta.color-secundario-cus.p-4
+            .row.justify-content-center.mb-3
+              .col-sm-4.col-lg-4.my-5.col-4
+                img(src='@/assets/tema1/img13.svg')
+            p.text-center La redacción de los cuestionarios es fundamental para el correcto desarrollo de la medición, debe ser muy claro para el público objetivo que haga parte del proceso.
 
 
-
-    p.mb-5(data-aos="zoom-in-left") Finalmente, el mensaje presenta una de dos propiedades de acuerdo con la estructura que tenga y el uso de los elementos utilizados para su realización.
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-5.bg3.px-4.py-4.mb-cus
-        img(src='@/assets/curso/temas/tema1/img16.png')
-        p.mt-3.text-center #[strong Anclaje:] la imagen predomina, es más relevante y comunicativa que el texto.  
-      .col-sm-12.col-lg-5.bg3.px-4.py-4.mr-cus
-        img(src='@/assets/curso/temas/tema1/img17.png')
-        p.mt-3.text-center #[strong Relevo:] el encabezado es predominante y la imagen pasa a un segundo plano.             
-
+          .tarjeta.color-secundario-cus.p-4
+            .row.justify-content-center.mb-3
+              .col-sm-4.col-lg-4.my-5.col-4
+                img(src='@/assets/tema1/img14.svg')
+            p.text-center Garantizar que el público objetivo que va a ser testeado no tenga conocimiento del proceso que se va a realizar, con el fin de evitar posibles sesgos en la medición.
+    
+    Separador  
+    #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
+      h2  1.2 Pretest y postest
+      
+    p Las empresas que han decidido realizar una campaña publicitaria han destinado un presupuesto significativo en la realización de la misma, de ahí la importancia de hacer test a los anuncios que son los elementos que finalmente verá el mercado y que generarán resultados medibles para el cumplimiento de los objetivos. En el desarrollo de una campaña publicitaria la empresa tiene la posibilidad de realizar dos tipos de mediciones: pretest y postest, ambos representan un alto nivel de relevancia para lograr los objetivos de la campaña y permiten minimizar los riesgos en su ejecución.
 
 
     .d-flex.mb-4(data-aos="zoom-in-left")
-      .bg4 Estilos 
-      .bg5 en los anuncios publicitarios 
-    p.mb-5(data-aos="zoom-in-left") Los siguientes son estilos de anuncios publicitarios que se explican de acuerdo con lo indicado en el blog Pixel Creativo (2014):
-    .bg2.px-5.px-sm-0.pt-4.pb-4.mb-5(data-aos="zoom-in-left")
-      SlyderA(tipo="b")
-        .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Unificación: 
-              p con el uso de un recurso preexistente se crea una asociación con el mensaje para darle un sentido específico, esta técnica se utiliza con más frecuencia en BTL y outdoors, como se muestra en la siguiente figura.
-              .titulo-sexto.color-secundario.mt-5
-                h5 Figura 1.
-                span
-                  |   Unificación
-            .col-sm-12.col-lg-5
-              
-              figure
-                img(src='@/assets/curso/temas/tema1/img18.png', alt='La imagen representa una lámpara de alumbrado público en una calle de una ciudad. En la parte alta de la lámpara se presenta una jarra de la cual se vierte un líquido  que simula el poste de la lámpara y termina su recorrido en la figura de un vaso con el logotipo de la marca McDonalds.')
-              figcaption Nota. Marca registrada McDonald's (s.f.).
-        
-        .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Metáfora:
-              p es utilizada en soluciones principalmente gráficas, aquí se busca un elemento que tenga cierta asociación al producto o servicio, y se une el producto con este símbolo; esta técnica es eficiente cuando el mensaje es demasiado abstracto para ponerlo en palabras, ya que la potencia comunicacional del símbolo no necesita explicaciones. En la figura 2 se muestra un ejemplo.
-              .titulo-sexto.color-secundario.mt-5
-                h5 Figura 2.
-                span
-                  |   Metáfora
-            .col-sm-12.col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema1/img19.png', alt='La imagen representa una lámpara de alumbrado público en una calle de una ciudad. En la parte alta de la lámpara se presenta una jarra de la cual se vierte un líquido  que simula el poste de la lámpara y termina su recorrido en la figura de un vaso con el logotipo de la marca McDonalds.')
-              figcaption Nota. Marca registrada Mentos (s.f.).
-              
-        .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Inversión:
-              p en lugar de decirle al espectador lo bueno que es tener el producto, aquí se muestra la consecuencia extrema de no tener o no usar el producto, tal como se ilustra en la siguiente figura.
-              .titulo-sexto.color-secundario.mt-5
-                h5 Figura 3.
-                span
-                  |   Inversión
-            .col-sm-12.col-lg-5
-              
-              figure
-                img(src='@/assets/curso/temas/tema1/img20.png', alt='En la figura se presenta fotografía de una persona invidente  que camina cerca a un hueco  que hay en la calle en la cual se realizan obras   y está  siendo conducida por un perro. ')
-              figcaption Nota. Marca registrada NutriPro NutriBalance (s.f.).
+      .bg4 Pretest
+      .bg5
+    
+    .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+      .col-lg-9
+        p El pretest en la publicidad es entendido como el #[b conjunto de investigaciones dirigidas a evaluar los anuncios publicitarios, antes de su publicación en los medios de comunicación], las cuales son realizadas desde el desarrollo del concepto creativo hasta el arte finalizado, con el fin de valorar y mejorar los anuncios para que logren los objetivos propuestos.
+        .cajon.color-acento-contenido.px-3.py-4.mb-4
+          p Es importante dejar claro que la mayoría de las empresas no realizan pretest, lo que deriva en múltiples fallas de tipo comunicacional que no pueden corregirse una vez los anuncios estén al aire, generando pérdidas monetarias en pauta, producción y diseño de piezas. #[b Es claro que un pretest implica un costo para la empresa; sin embargo, este costo puede ser poco significativo frente a las pérdidas generadas por el desarrollo de una campaña que es poco efectiva, que no es comprensible o que no genera impacto en el público objetivo.]
+        p Cuando se realiza un pretest debe hacerse con una muestra del público objetivo; es decir, la selección de las personas que van a ser testeadas debe coincidir con el perfil de cliente del producto o servicio que se está promocionando. Adicionalmente, la realización de estos test debe hacerse con el fin de realizar los cambios necesarios en las piezas publicitarias, de lo contrario perderían su razón de ser.
+      .col-lg-3.col-8
+        img(src='@/assets/tema1/img15.svg', alt='')
+    
+    .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+      .col-lg-2.col-5
+        img(src='@/assets/tema1/img16.svg', alt='')
+      .col-lg-10
+        p Los beneficios de realizarlo se pueden derivar en la inversión de pauta que se haga en medios; por ejemplo, un pretest puede arrojar que un anuncio tiene un nivel de recordación o de impacto de 30%, frente a otro que tiene una recordación del 60%; con estos datos la empresa puede tomar la decisión de incrementar la pauta del primer anuncio y reducirla en el segundo, ahorrando una parte considerable del presupuesto. Este ejemplo también lleva a recalcar la importancia de realizar una adecuada planeación del pretest y de cada una de las mediciones que de él se van a derivar para lograr la mayor efectividad posible en la campaña publicitaria.
+        p El fin de un pretest es diagnosticar si un anuncio es eficaz o si debe ser ajustado para lograr los objetivos de la campaña, este proceso debe hacerse antes de la publicación en los medios de comunicación. Sin embargo, su realización se puede desglosar en objetivos más puntuales:
+    
+    .row.align-items-center(data-aos="zoom-in-left").p-4
+      .col-lg-4
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/tema1/img17.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul
+            .p-4
+              p Escoger entre varios anuncios o conceptos creativos.
+      .col-lg-4
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/tema1/img18.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul
+            .p-3
+              p Definir el grado de comprensión que tiene el mercado acerca del mensaje que se busca transmitir.
 
-        .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Esfuerzos extremos:
-              p realizar la comunicación mostrando la ejecución de un esfuerzo exagerado o absurdo del consumidor por conseguir el producto o de la empresa por hacer llegar ese producto al consumidor. Esta técnica es efectiva cuando no existe un diferenciador para el producto y no explica el valor o beneficio del producto, por ello la marca debe estar identificada. Puede ver un ejemplo en la figura que aparece a continuación.
-              .titulo-sexto.color-secundario.mt-5
-                h5 Figura 4.
-                span
-                  |   Esfuerzos extremos
-            .col-sm-12.col-lg-5
-              
-              figure
-                img(src='@/assets/curso/temas/tema1/img21.png', alt='La imagen representa a dos hombre en la zona de abordaje de una nave espacial,  uno de ello le está entregando al otro una lata de Pepsi y este a su vez sostiene un vestido de astronauta.  ')
-              figcaption Nota. Marca registrada Pepsi (s.f.).
+      .col-lg-4
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/tema1/img19.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul
+            .p-4
+              p Determinar el grado de credibilidad del mensaje publicitario.
 
-        .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Consecuencia extrema: 
-              p en esta técnica la comunicación no se enfoca en la promesa, sino en la exageración de la consecuencia del producto, sea buena o mala, como se ilustra en la siguiente figura.
-              .titulo-sexto.color-secundario.mt-5
-                h5 Figura 5.
-                span
-                  |   Consecuencia extrema
-            .col-sm-12.col-lg-5
-              
-              figure
-                img(src='@/assets/curso/temas/tema1/img22.png', alt='En la imagen se presenta un rayo de luz que proviene de la linterna de un casco de minero que lleva en su cabeza un pequeño esqueleto y que ilumina un espacio oscuro. ')
-              figcaption Nota. Marca registrada Duracell (s.f.).
+      .col-lg-4
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/tema1/img19.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul
+            .p-4
+              p Determinar el grado de credibilidad del mensaje publicitario.
 
-        .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Activación: 
-              p el espectador no se limita solamente a leer o escuchar el mensaje, en esta técnica se invita a generar una acción con el medio que lo transporta, con el fin de generar mayor impacto y recordación, tal cual se muestra en la siguiente figura.
-              .titulo-sexto.color-secundario.mt-5
-                h5 Figura 6.
-                span
-                  |   Activación
-            .col-sm-12.col-lg-5
-              
-              figure.mt-5
-                img(src='@/assets/curso/temas/tema1/img23.png', alt=' La imagén presenta tres revistas abiertas en la misma página y una mano que señala algo sobre la revista del centro. ')
-              figcaption Nota. Agencia JWT (2007).
+      .col-lg-4
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/tema1/img19.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul
+            .p-4
+              p Determinar el grado de credibilidad del mensaje publicitario
 
-        .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Comportamiento extremo: 
-              p se exagera el comportamiento de una persona que busca la característica que se quiere comunicar, así comunica un atributo del producto y se utiliza cuando el atributo no es característico del producto frente a la categoría. En la siguiente figura se puede ver un ejemplo.
-              .titulo-sexto.color-secundario.mt-5
-                h5 Figura 7.
-                span
-                  |    Comportamiento extremo
-            .col-sm-12.col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema1/img24.png', alt='En la figura se presenta la fotografía de una niña dormida sobre una rebanada de pan  en la mesa del desayuno. ')
-              figcaption Nota. Marca registrada Harry’s Bread (s.f.).
-        .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Alternativa absurda: 
-              p con esta técnica se busca dar solución a un problema, así el usuario al ver esto, podrá entender que el producto es la mejor alternativa para solucionarlo, como se muestra en la siguiente figura.
-              .titulo-sexto.color-secundario.mt-5
-                h5 Figura 8.
-                span
-                  | Alternativa absurda
-            .col-sm-12.col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema1/img25.png', alt=' En la imagen se presenta una mano sosteniendo una cámara fotográfica y en el antebrazo tiene cuatro soportes metálicos.')
-              figcaption Nota. Marca registrada Olympus (s.f.). 
+      .col-lg-4
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/tema1/img19.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul
+            .p-4
+              p Determinar el grado de credibilidad del mensaje publicitario
+
+      .col-lg-4
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/tema1/img19.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul
+            .p-4
+              p Determinar el grado de credibilidad del mensaje publicitario.
+
  
-  
+    
+    .d-flex.mb-4(data-aos="zoom-in-left")
+      .bg4 Momento
+      .bg5 para la realización del pretest
+
+    p Es importante recordar que el pretest se hace durante el proceso de elaboración de la campaña publicitaria y, mientras se realiza la campaña, el mensaje debe ser sometido a un minucioso sistema de creación; es por eso que el pretest puede estar presente en diferentes fases :
+    
 </template>
 
 <script>
