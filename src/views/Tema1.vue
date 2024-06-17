@@ -190,6 +190,71 @@
 
     p Es importante recordar que el pretest se hace durante el proceso de elaboración de la campaña publicitaria y, mientras se realiza la campaña, el mensaje debe ser sometido a un minucioso sistema de creación; es por eso que el pretest puede estar presente en diferentes fases :
     
+    .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+      .col-lg-8
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+          .row(titulo="Durante el desarrollo del concepto")
+            .col-md-12.mb-4.mb-md-0
+              p Aquí los creativos pueden determinar si el direccionamiento que le están dando al mensaje es el adecuado o deben hacer algún ajuste que garantice la eficacia de la campaña. Un pretest de concepto no es garantía de éxito, pero puede contribuir a minimizar riesgos en la toma de decisiones y a tener una visión más cercana con las expectativas del público objetivo. Se realiza en los siguientes casos:
+              ul.lista-ul--color.lista-ul--separador
+                li 
+                  i.fas.fa-play
+                  | Cuando derivados de las técnicas creativas, se generaron varios conceptos o ejes de comunicación.
+                li 
+                  i.fas.fa-play
+                  | Cuando hay dudas sobre el concepto creativo que se ha seleccionado para la campaña.
+                li 
+                  i.fas.fa-play
+                  | Cuando el concepto seleccionado es muy novedoso y no se ha realizado algo similar antes.
+                li 
+                  i.fas.fa-play
+                  | Cuando el anunciante propone un concepto propio.
+
+          div(titulo="Primeras reacciones")
+            p Este momento permite conocer las reacciones del público objetivo frente a un boceto más elaborado de la pieza gráfica y conocer si el mensaje es comprensible en su conjunto de imágenes y textos.
+          
+          div(titulo="Anuncio terminado")
+            p En este punto se expone ante una muestra del público objetivo el anuncio publicitario terminado y tal como se verá publicado en los medios de comunicación. 
+      .col-lg-4
+        img(src='@/assets/tema1/img20.png' alt='')
+
+
+      .d-flex.mb-4(data-aos="zoom-in-left")
+        .bg4 Tipos 
+        .bg5 de pretest
+      
+      p Existen varios tipos de test que se pueden realizar para el proceso creativo de una campaña, el que utilice una empresa está supeditado al presupuesto de la campaña y el nivel de precisión que se espera tener de las mediciones a realizar; encontrando las siguientes técnicas:
+
+      .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+        .col-lg-11
+          .d-flex.mb-4(data-aos="zoom-in-left")
+            .bg13.p-1 #[b A.]
+            .bg5 Fisiológicos: 
+      .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+        .col-lg-10
+          p Se realizan utilizando tecnología de punta para el análisis de la percepción del público objetivo frente a un anuncio o grupo de anuncios publicitarios. Este tipo de mediciones han avanzado de forma exponencial desde la incursión de la neurociencia en el ámbito comercial y publicitario, en el que se pueden acceder a varias herramientas de uso médico y militar para determinar la efectividad de una pieza gráfica y su mensaje. Se encuentran
+      
+      .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+        .col-lg-11
+          .d-flex.mb-4(data-aos="zoom-in-left")
+            .bg13.p-1 #[b B.]
+            .bg5 Cualitativos:
+      .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+        .col-lg-8
+          p Para el desarrollo de este tipo de test se utilizan métodos cualitativos de investigación: sesiones de grupo, técnicas proyectivas para conocer los sentimientos de los individuos hacia los anuncios publicitarios, entre otros. Este tipo de test se utilizan en las primeras etapas del proceso creativo.
+        .col-lg-2
+          img(src='@/assets/tema1/img21.svg' alt='')
+
+      .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+        .col-lg-11
+          .d-flex.mb-4(data-aos="zoom-in-left")
+            .bg13.p-1 #[b C.]
+            .bg5 Cuantitativos: 
+      .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
+        .col-lg-8
+          p Utilizan por lo general encuestas y entrevistas en profundidad. Este tipo de entrevistas son las que mejor se adaptan a la obtención de los datos que se esperan obtener. Son utilizadas sobre todo en medios masivos convencionales. Hoy en día la analítica web genera datos cuantitativos muy precisos gracias al nivel de medición estadística que generan las diferentes plataformas web.
+        .col-lg-2
+          img(src='@/assets/tema1/img22.svg' alt='')
 </template>
 
 <script>
