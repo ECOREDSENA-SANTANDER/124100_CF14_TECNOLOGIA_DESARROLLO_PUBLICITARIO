@@ -9,6 +9,12 @@
           i.fas.fa-info
       h1 Introducción
     
+    p En el siguiente video se da introducción a los temas que se trabajarán en este componente formativo:  
+    figure(data-aos="fade-down")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Leyenda del video 
+    
 </template>
 
 <script>
