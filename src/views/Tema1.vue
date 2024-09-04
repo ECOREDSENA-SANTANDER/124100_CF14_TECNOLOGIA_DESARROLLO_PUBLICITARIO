@@ -294,42 +294,43 @@
       .col-lg-1
         img(src='@/assets/curso/temas/t1/imag15.svg', alt='')
     
-    SlyderA(tipo="b")
-      .row
-        .col-md-6.mb-4.mb-md-0
-          h4 Top of Mind
-          p Es un tipo de medición que hacen algunas empresas de investigación de mercados, para determinar las marcas que de cada categoría están en la mente de los consumidores y en qué orden estos las recuerdan. Sin embargo, este top de marcas en la mente de los consumidores depende en gran medida de factores externos como el contexto, el perfil de los clientes y la publicidad.
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/t1/slyder10.svg', alt='')
-      .row
-        .col-md-6.mb-4.mb-md-0
-          h4 Top of Heart
-          p Es un nivel superior al Top of Mind, ya que representa el grado de afinidad y cariño que el mercado tiene con una marca en particular. En este punto los consumidores adoptan un producto o una marca como parte de su vida, por el nivel de empatía que hace que se identifique a un nivel muy personal con ella. También pueden interferir factores como la tradición y la nostalgia.
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/t1/slyder11.png', alt='')
-      .row
-        .col-md-6.mb-4.mb-md-0
-          h4 Grupo evocado
-          p Conformado por las marcas específicas de productos que el consumidor considera en primera instancia.
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/t1/slyder12.png', alt='')
-      .row
-        .col-md-6.mb-4.mb-md-0
-          h4 Grupo inepto
-          p Son las marcas que el consumidor elimina de tajo en su proceso de compra.
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/t1/slyder12.png', alt='')
-      .row
-        .col-md-6.mb-4.mb-md-0
-          h4 Grupo inerte
-          p Son marcas que el consumidor ignora por no encontrar en ellas algún beneficio o ventaja en particular.
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/t1/slyder13.png', alt='')
+    .row.bg2
+      SlyderA(tipo="b").mb-4
+        .row.justify-content-center.align-items-center.mb-5
+          .col-md-4.mb-4.mb-md-0
+            h4 Top of Mind
+            p Es un tipo de medición que hacen algunas empresas de investigación de mercados, para determinar las marcas que de cada categoría están en la mente de los consumidores y en qué orden estos las recuerdan. Sin embargo, este top de marcas en la mente de los consumidores depende en gran medida de factores externos como el contexto, el perfil de los clientes y la publicidad.
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/t1/slyder10.svg', alt='')
+        .row.justify-content-center.align-items-center.mb-5
+          .col-md-4.mb-4.mb-md-0
+            h4 Top of Heart
+            p Es un nivel superior al Top of Mind, ya que representa el grado de afinidad y cariño que el mercado tiene con una marca en particular. En este punto los consumidores adoptan un producto o una marca como parte de su vida, por el nivel de empatía que hace que se identifique a un nivel muy personal con ella. También pueden interferir factores como la tradición y la nostalgia.
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/t1/slyder11.png', alt='')
+        .row.justify-content-center.align-items-center.mb-5
+          .col-md-4.mb-4.mb-md-0
+            h4 Grupo evocado
+            p Conformado por las marcas específicas de productos que el consumidor considera en primera instancia.
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/t1/slyder12.png', alt='')
+        .row.justify-content-center.align-items-center.mb-5
+          .col-md-4.mb-4.mb-md-0
+            h4 Grupo inepto
+            p Son las marcas que el consumidor elimina de tajo en su proceso de compra.
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/t1/slyder12.png', alt='')
+        .row.justify-content-center.align-items-center.mb-5
+          .col-md-4.mb-4.mb-md-0
+            h4 Grupo inerte
+            p Son marcas que el consumidor ignora por no encontrar en ellas algún beneficio o ventaja en particular.
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/t1/slyder13.png', alt='')
             
 
     .row.justify-content-center.align-items-center.mb-5
