@@ -2,23 +2,111 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 25%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 67%
+    right: 74%
+  &-3
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 25%
+    right: 16%
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 20%
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
 
+.banner-principal .tarjeta
+  @media (max-width: $bp-max-md)
+    background-position: 29%
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem  
+
 .bg1
-  background-color: #AEE6E6 
+  background-color: #AEE6E6 !important
 .bg2
-  background-color: #7D6EB2 
+  background-color: #7D6EB2 !important
+.fondo-completo
+  background: #7D6EB2
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem 
+
+.titulo-tercer
+  background-color: #7D6EB2
+  color: #FFF
+  padding: 4px 20px 4px 7px
+  width: fit-content
+.tit-tercer span 
+  background-color: #7D6EB2
+  color: #FFF
+  padding: 4px
+.destacado span
+  background-color: #26AAB7
+  padding: 2px 
+.b-left
+  border-left: 2px solid #636363
+  @media (max-width: $bp-max-md)
+    border-left: 0px
+
+.tarjeta.tema1-2
+  background-color: #F6F6F6
+  border: 1px solid #7D6EB2
+
+.acordion__accion__btn--a 
+  background-color: #FFD947
+.acordion .acordion__activo
+  background-color: #F3F0EA
+
+.fondo-tabs
+  background-image: url("../assets/curso/temas/t1/fondo-tabs.svg")
+  background-repeat: no-repeat
+  background-size: 100%
+  background-position: center
+  @media (max-width: $bp-max-md)
+    background-size: cover
+.tabs-c__tab--active span
+  font-weight: bold  
+.tabs-c 
+  border-bottom: 0px
+
+.bg-tarjeta
+  background-image: url("../assets/curso/temas/t1/bg-tarjeta.svg")
+  background-repeat: no-repeat
+  background-size: 100%
+  background-position: center
+  @media (max-width: $bp-max-md)
+    background-size: cover
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+  background-color: #FFD947
+.slyder-a__bullets__item--active 
+  background-color: #FFD947 !important
+  border-color: #FFD947
+.slyder-a__bullets__item
+  background-color: #FFF2BF
+  border-color: #FFF2BF
+
+.tabla-a thead 
+  border-top: 15px solid  
+  background-color: #F5FCFC
+.tabla-a th 
+  border-color: #E8E8E8 !important
+
+.lista-ul--color.fa-ul.color-acento-contenido li > i:first-of-type  
+  font-size: 13px

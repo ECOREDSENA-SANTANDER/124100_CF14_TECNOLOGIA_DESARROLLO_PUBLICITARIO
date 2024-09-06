@@ -97,11 +97,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
+      /*{
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
-      },
+      },*/
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -234,24 +234,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Andrea Paola Botello De la rosa',
-          cargo: 'Desarrollador Fullstack',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Andrea Paola Botello De la Rosa',
+          cargo: 'Desarrolladora <em>Fullstack</em>',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -259,24 +254,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },

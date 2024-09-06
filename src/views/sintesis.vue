@@ -6,14 +6,17 @@
 
     .row.justify-content-center
       .col-lg-10.mb-5
-        figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+        .row.justify-content-center
+          .col-lg-10
+            figure
+              img(src="@/assets/curso/temas/sintesis.svg", alt="El diagrama presenta el contenido del componente formativo, detallando conceptos y temas más importantes.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Anexo. Síntesis
+
 
 </template>
 
