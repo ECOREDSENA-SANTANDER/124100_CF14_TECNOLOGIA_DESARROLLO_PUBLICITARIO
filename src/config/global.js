@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Pre y postest de campaña',
     descripcionCurso:
-      'En este componente formativo se abordarán las estrategias del pretest y el postest, las cuales hacen parte del control que se realiza a la campaña publicitaria, de acuerdo con el proceso de la comunicación. Este control se lleva a cabo sobre el mensaje, la planeación de las estrategias y los resultados de la campaña',
+      'En este componente formativo se abordarán las estrategias del pretest y el postest, las cuales hacen parte del control que se realiza a la campaña publicitaria, de acuerdo con el proceso de la comunicación. Este control se lleva a cabo sobre el mensaje, la planeación de las estrategias y los resultados de la campaña.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -142,7 +142,7 @@ export default {
     {
       termino: 'Audiencia',
       significado:
-        'número de personas expuestas a un medio o a un soporte de comunicación',
+        'número de personas expuestas a un medio o a un soporte de comunicación.',
     },
     {
       termino: 'Centrales de medios',
@@ -157,7 +157,7 @@ export default {
     {
       termino: 'Investigación pretest',
       significado:
-        'investigación realizada con anterioridad a la emisión del anuncio y que pretende evaluar la capacidad que tiene la comunicación para alcanzar los objetivos de la campaña',
+        'investigación realizada con anterioridad a la emisión del anuncio y que pretende evaluar la capacidad que tiene la comunicación para alcanzar los objetivos de la campaña.',
     },
     {
       termino: 'Pupilometría',
@@ -171,7 +171,7 @@ export default {
     {
       termino: '<em>Top of Mind</em>',
       significado:
-        'primera marca o referencia citada por un consumidor cuando se le pide que indique las marcas que hay en el mercado',
+        'primera marca o referencia citada por un consumidor cuando se le pide que indique las marcas que hay en el mercado.',
     },
   ],
   referencias: [

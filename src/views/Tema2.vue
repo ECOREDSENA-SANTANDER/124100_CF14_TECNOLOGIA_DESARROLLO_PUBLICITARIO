@@ -18,7 +18,7 @@
     #t_2_1.titulo-segundo.color-secundario(data-aos="fade-right")
       h2 2.1 ¿Qué es el ROI?
     
-    p.mb-5 #[b #[em Return On Investment]] (ROI) es un sistema de medición que permite determinar el valor generado; es decir, el retorno frente a un gasto generado, es decir, la inversión. El ROI se puede implementar en cualquier tipo de inversión; sin embargo, puede resultar de mayor utilidad en aquellas que son de respuesta rápida o a corto plazo, de ahí que sea en la actualidad un indicador de primer orden en el desarrollo estratégico de marketing  y campañas publicitarias.
+    p.mb-5 #[b #[em Return On Investment]] (ROI) es un sistema de medición que permite determinar el valor generado; es decir, el retorno frente a un gasto generado, es decir, la inversión. El ROI se puede implementar en cualquier tipo de inversión; sin embargo, puede resultar de mayor utilidad en aquellas que son de respuesta rápida o a corto plazo, de ahí que sea en la actualidad un indicador de primer orden en el desarrollo estratégico de #[em marketing]  y campañas publicitarias.
     
     h4.tit-tercer.mb-4(data-aos="fade-right") #[span ¿Para qué] se puede utilizar el ROI?
     p.mb-4 El #[em marketing] y la publicidad no son ciencias exactas, por el contrario, son disciplinas que presentan múltiples variaciones, lo que hace al ROI tener un papel preponderante para determinar cuan efectivas han sido las estrategias implementadas por una empresa. Un grupo de creativos publicitarios puede generar una estrategia muy efectiva con un presupuesto limitado o tener un presupuesto de millones y generar estrategias con la misma efectividad. Eso hace al ROI que sea un indicador de gestión de actividades comerciales indispensable para mejorar ciertos aspectos de las empresas, como son:
@@ -28,12 +28,12 @@
         .row.justify-content-center.mb-4
           .col-lg-5.col-md-6.col-5
             img(src='@/assets/curso/temas/t2/imag2.svg', alt='')
-        p.text-center #[b Planificación de marketing y estrategias de ventas.]
+        p.text-center #[b Planificación de #[em marketing] y estrategias de ventas.]
       .col-lg-3.col-md-6.b-left.mb-4
         .row.justify-content-center.mb-4
           .col-lg-5.col-md-6.col-5
             img(src='@/assets/curso/temas/t2/imag3.svg', alt='')
-        p.text-center #[b Evaluación de resultados de marketing y publicidad.]
+        p.text-center #[b Evaluación de resultados de #[em marketing] y publicidad.]
       .col-lg-3.col-md-6.b-left.mb-4
         .row.justify-content-center.mb-4
           .col-lg-5.col-md-6.col-5
@@ -51,7 +51,7 @@
         ul.lista-ul--color.fa-ul.color-acento-contenido
           li 
             i.fas.fa-play
-            | Mejorar la planificación de las estrategias de marketing.
+            span.mb-0 Mejorar la planificación de las estrategias de #[em marketing].
           li 
             i.fas.fa-play
             | Facilitar la toma de decisiones.
@@ -60,10 +60,10 @@
             | Posibilidad de mejorar los resultados de las estrategias.
           li 
             i.fas.fa-play
-            | Capacidad para determinar los presupuestos para planes de marketing y campañas publicitarias.
+            span.mb-0 Capacidad para determinar los presupuestos para planes de #[em marketing] y campañas publicitarias.
           li 
             i.fas.fa-play
-            | Integrar el marketing con ventas y publicidad.
+            span.mb-0 Integrar el #[em marketing] con ventas y publicidad.
       .col-lg-6.col-md-8(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/imag6.svg', alt='')
     
@@ -90,7 +90,7 @@
             tbody
               tr
                 td.fw-bold(rowspan=9) Mercadeo
-                td.text-center Posicionamiento.
+                td.text-center Posicionamiento
                 td 
                   ul.lista-ul--color.fa-ul.color-acento-contenido
                     li 
@@ -163,7 +163,7 @@
                   ul.lista-ul--color.fa-ul.color-acento-contenido
                     li 
                       i.fas.fa-play
-                      | Marketing directo.
+                      span.mb-0 #[em marketing] directo.
                     li 
                       i.fas.fa-play
                       | Patrocinio.
@@ -176,7 +176,7 @@
                   ul.lista-ul--color.fa-ul.color-acento-contenido
                     li 
                       i.fas.fa-play
-                      | Gastos de marketing.
+                      span.mb-0 Gastos de #[em marketing].
                     li 
                       i.fas.fa-play
                       | Pérdidas.
@@ -330,8 +330,8 @@
 
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mZyUOsgMS-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Cálculo Roi
 
 
 </template>

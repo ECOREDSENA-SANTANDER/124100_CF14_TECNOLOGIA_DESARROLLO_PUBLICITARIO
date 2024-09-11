@@ -202,7 +202,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         h4.destacado #[span A.] Fisiológicos: 
-        p.mb-0.ps-4 se realizan utilizando tecnología de punta para el análisis de la percepción del público objetivo frente a un anuncio o grupo de anuncios publicitarios. Este tipo de mediciones han avanzado de forma exponencial desde la incursión de la neurociencia en el ámbito comercial y publicitario, en el que se pueden acceder a varias herramientas de uso médico y militar para determinar la efectividad de una pieza gráfica y su mensaje. Se encuentran
+        p.mb-0.ps-4 Se realizan utilizando tecnología de punta para el análisis de la percepción del público objetivo frente a un anuncio o grupo de anuncios publicitarios. Este tipo de mediciones han avanzado de forma exponencial desde la incursión de la neurociencia en el ámbito comercial y publicitario, en el que se pueden acceder a varias herramientas de uso médico y militar para determinar la efectividad de una pieza gráfica y su mensaje. Se encuentran
     
     .fondo-tabs.p-4.mb-5.mb-lg-3(data-aos="fade-down")
       .row.justify-content-center 
@@ -249,14 +249,14 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-8
         h4.destacado #[span B.] Cualitativos: 
-        p.mb-4.ps-4 para el desarrollo de este tipo de test se utilizan métodos cualitativos de investigación: sesiones de grupo, técnicas proyectivas para conocer los sentimientos de los individuos hacia los anuncios publicitarios, entre otros. Este tipo de test se utilizan en las primeras etapas del proceso creativo.
+        p.mb-4.ps-4 Para el desarrollo de este tipo de test se utilizan métodos cualitativos de investigación: sesiones de grupo, técnicas proyectivas para conocer los sentimientos de los individuos hacia los anuncios publicitarios, entre otros. Este tipo de test se utilizan en las primeras etapas del proceso creativo.
       .col-lg-2.col-md-6.col-9
         img(src='@/assets/curso/temas/t1/imag13.svg', alt='')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-8
         h4.destacado #[span C.] Cuantitativos: 
-        p.mb-4.ps-4 utilizan por lo general encuestas y entrevistas en profundidad. Este tipo de entrevistas son las que mejor se adaptan a la obtención de los datos que se esperan obtener. Son utilizadas sobre todo en medios masivos convencionales. Hoy en día la analítica web genera datos cuantitativos muy precisos gracias al nivel de medición estadística que generan las diferentes plataformas web.
+        p.mb-4.ps-4 Utilizan por lo general encuestas y entrevistas en profundidad. Este tipo de entrevistas son las que mejor se adaptan a la obtención de los datos que se esperan obtener. Son utilizadas sobre todo en medios masivos convencionales. Hoy en día la analítica web genera datos cuantitativos muy precisos gracias al nivel de medición estadística que generan las diferentes plataformas web.
       .col-lg-2.col-md-6.col-9
         img(src='@/assets/curso/temas/t1/imag14.svg', alt='')
     
@@ -294,8 +294,8 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
-        h4.destacado #[span A.] Penetración: 
-        p.mb-4.ps-4 en este punto se hace una medición de la recordación que tiene el mensaje y el producto en relación con la campaña. Cuando esta incluye varios anuncios debe hacerse un análisis de cada uno de ellos para determinar el nivel de recordación que estos tienen frente al mercado objetivo. La recordación de un producto o marca es variada dependiendo del tipo de producto y de la interacción del mercado con él. Se pueden definir varios tipos de recordación:
+        h4.destacado Penetración: 
+        p.mb-4 En este punto se hace una medición de la recordación que tiene el mensaje y el producto en relación con la campaña. Cuando esta incluye varios anuncios debe hacerse un análisis de cada uno de ellos para determinar el nivel de recordación que estos tienen frente al mercado objetivo. La recordación de un producto o marca es variada dependiendo del tipo de producto y de la interacción del mercado con él. Se pueden definir varios tipos de recordación:
       .col-lg-1.col-md-4.col-6
         img(src='@/assets/curso/temas/t1/imag15.svg', alt='')
     
@@ -307,31 +307,31 @@
             SlyderA(tipo="b").p-4
               .row.justify-content-center.align-items-center
                 .col-lg-6.mb-4.mb-md-0
-                  h4 #[em Top of Mind]
+                  h4 A. #[em Top of Mind]
                   p Es un tipo de medición que hacen algunas empresas de investigación de mercados, para determinar las marcas que de cada categoría están en la mente de los consumidores y en qué orden estos las recuerdan. Sin embargo, este top de marcas en la mente de los consumidores depende en gran medida de factores externos como el contexto, el perfil de los clientes y la publicidad.
                 .col-lg-4.col-md-7
                   img(src='@/assets/curso/temas/t1/slyder10.svg', alt='')
               .row.justify-content-center.align-items-center
                 .col-lg-6.mb-4.mb-md-0
-                  h4 #[em Top of Heart]
-                  p Es un nivel superior al Top of Mind, ya que representa el grado de afinidad y cariño que el mercado tiene con una marca en particular. En este punto los consumidores adoptan un producto o una marca como parte de su vida, por el nivel de empatía que hace que se identifique a un nivel muy personal con ella. También pueden interferir factores como la tradición y la nostalgia.
+                  h4 B. #[em Top of Heart]
+                  p Es un nivel superior al #[em Top of Mind], ya que representa el grado de afinidad y cariño que el mercado tiene con una marca en particular. En este punto los consumidores adoptan un producto o una marca como parte de su vida, por el nivel de empatía que hace que se identifique a un nivel muy personal con ella. También pueden interferir factores como la tradición y la nostalgia.
                 .col-lg-4.col-md-7
                   img(src='@/assets/curso/temas/t1/slyder11.png', alt='')
               .row.justify-content-center.align-items-center
                 .col-lg-6.mb-4.mb-md-0
-                  h4 Grupo evocado
+                  h4 C. Grupo evocado
                   p Conformado por las marcas específicas de productos que el consumidor considera en primera instancia.
                 .col-lg-4.col-md-7
                   img(src='@/assets/curso/temas/t1/slyder12.png', alt='')
               .row.justify-content-center.align-items-center
                 .col-lg-6.mb-4.mb-md-0
-                  h4 Grupo inepto
+                  h4 D. Grupo inepto
                   p Son las marcas que el consumidor elimina de tajo en su proceso de compra.
                 .col-lg-4.col-md-7
                   img(src='@/assets/curso/temas/t1/slyder13.png', alt='')
               .row.justify-content-center.align-items-center
                 .col-lg-6.mb-4.mb-md-0
-                  h4 Grupo inerte
+                  h4 E. Grupo inerte
                   p Son marcas que el consumidor ignora por no encontrar en ellas algún beneficio o ventaja en particular.
                 .col-lg-4.col-md-7
                   img(src='@/assets/curso/temas/t1/slyder14.png', alt='')
@@ -339,22 +339,22 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
-        h4.destacado #[span B.] Audiencia alcanzada: 
-        p.mb-4.ps-4 los niveles de ventas, leads  y otros indicadores de respuesta del mercado objetivo son mediciones que permiten determinar la efectividad de la campaña.
+        h4.destacado Audiencia alcanzada: 
+        p.mb-4 los niveles de ventas, #[em leads]  y otros indicadores de respuesta del mercado objetivo son mediciones que permiten determinar la efectividad de la campaña.
       .col-lg-1.col-md-4.col-6
         img(src='@/assets/curso/temas/t1/imag16.svg', alt='')
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
-        h4.destacado #[span C.] Modificación de actitudes e imagen: 
-        p.mb-4.ps-4 de acuerdo con los objetivos de comunicación que también incluyen aspectos cualitativos, es necesario medir los cambios en las actitudes del mercado objetivo y los cambios en la imagen que el producto o servicio, basado con la percepción del target. 
+        h4.destacado Modificación de actitudes e imagen: 
+        p.mb-4 de acuerdo con los objetivos de comunicación que también incluyen aspectos cualitativos, es necesario medir los cambios en las actitudes del mercado objetivo y los cambios en la imagen que el producto o servicio, basado con la percepción del #[em target]. 
       .col-lg-1.col-md-4.col-6
         img(src='@/assets/curso/temas/t1/imag17.svg', alt='')
     
     .row.justify-content-center.align-items-center
       .col-lg-9
-        h4.destacado #[span D.] Comportamiento de compra:
-        p.mb-4.ps-4 toda acción de marketing , inclusive las campañas publicitarias, tienen como finalidad el incremento en las ventas o un cambio de actitud frente a ellas, este es un elemento a medir en el postest y representa un alto nivel de importancia para determinar si se está cumpliendo con los indicadores. Sin embargo, se puede dar el caso en que una campaña tiene como finalidad el cambio en el consumo de un producto o las razones para hacerlo; por ejemplo, que un detergente no se use únicamente para lavar la ropa, sino que se utilice como multiusos
+        h4.destacado Comportamiento de compra:
+        p.mb-4 toda acción de #[em marketing], inclusive las campañas publicitarias, tienen como finalidad el incremento en las ventas o un cambio de actitud frente a ellas, este es un elemento a medir en el postest y representa un alto nivel de importancia para determinar si se está cumpliendo con los indicadores. Sin embargo, se puede dar el caso en que una campaña tiene como finalidad el cambio en el consumo de un producto o las razones para hacerlo; por ejemplo, que un detergente no se use únicamente para lavar la ropa, sino que se utilice como multiusos.
       .col-lg-1.col-md-4.col-6
         img(src='@/assets/curso/temas/t1/imag18.svg', alt='')
 
