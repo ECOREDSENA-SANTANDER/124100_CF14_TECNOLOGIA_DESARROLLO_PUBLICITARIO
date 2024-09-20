@@ -167,7 +167,7 @@
     
     h4.tit-tercer.mb-4(data-aos="fade-right") #[span Momento] para la realización del pretest
 
-    p.mb-4(data-aos="fade") Es importante recordar que el pretest se hace durante el proceso de elaboración de la campaña publicitaria y, mientras se realiza la campaña, el mensaje debe ser sometido a un minucioso sistema de creación; es por eso que el pretest puede estar presente en diferentes fases :
+    p.mb-4(data-aos="fade") Es importante recordar que el pretest se hace durante el proceso de elaboración de la campaña publicitaria y, mientras se realiza la campaña, el mensaje debe ser sometido a un minucioso sistema de creación; es por eso que el pretest puede estar presente en diferentes fases:
 
     .row.mb-5
       .col-lg-8(data-aos="fade-right")
@@ -202,7 +202,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         h4.destacado #[span A.] Fisiológicos: 
-        p.mb-0.ps-4 Se realizan utilizando tecnología de punta para el análisis de la percepción del público objetivo frente a un anuncio o grupo de anuncios publicitarios. Este tipo de mediciones han avanzado de forma exponencial desde la incursión de la neurociencia en el ámbito comercial y publicitario, en el que se pueden acceder a varias herramientas de uso médico y militar para determinar la efectividad de una pieza gráfica y su mensaje. Se encuentran
+        p.mb-0.ps-4 Se realizan utilizando tecnología de punta para el análisis de la percepción del público objetivo frente a un anuncio o grupo de anuncios publicitarios. Este tipo de mediciones han avanzado de forma exponencial desde la incursión de la neurociencia en el ámbito comercial y publicitario, en el que se pueden acceder a varias herramientas de uso médico y militar para determinar la efectividad de una pieza gráfica y su mensaje. Se encuentran:
     
     .fondo-tabs.p-4.mb-5.mb-lg-3(data-aos="fade-down")
       .row.justify-content-center 
@@ -256,7 +256,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-8
         h4.destacado #[span C.] Cuantitativos: 
-        p.mb-4.ps-4 Utilizan por lo general encuestas y entrevistas en profundidad. Este tipo de entrevistas son las que mejor se adaptan a la obtención de los datos que se esperan obtener. Son utilizadas sobre todo en medios masivos convencionales. Hoy en día la analítica web genera datos cuantitativos muy precisos gracias al nivel de medición estadística que generan las diferentes plataformas web.
+        p.mb-4.ps-4 Utilizan por lo general encuestas y entrevistas en profundidad. Este tipo de entrevistas son las que mejor se adaptan a la obtención de los datos que se esperan obtener. Son utilizadas sobre todo en medios masivos convencionales. Hoy en día la analítica #[em web] genera datos cuantitativos muy precisos gracias al nivel de medición estadística que generan las diferentes plataformas #[em web].
       .col-lg-2.col-md-6.col-9
         img(src='@/assets/curso/temas/t1/imag14.svg', alt='')
     
@@ -273,7 +273,7 @@
     p.mb-5 El postest es un proceso de investigación que se realiza durante el proceso de ejecución de la campaña publicitaria; este permite medir los efectos que ha tenido o tuvo la campaña y el logro de los objetivos de la misma.
     
     h4.tit-tercer.mb-4(data-aos="fade-right") #[span Momento] de realización de un postest
-    p.mb-4 El postest es un proceso de medición indispensable para determinar si la inversión que se está realizando en publicidad se va a recuperar o se recuperó en algún momento de la campaña, pues muchas campañas tienen efectos inmediatos en el nivel de ventas, el nivel de recordación de una marca o en aspectos más técnicos en cuanto a lo digital, así como el nivel de conversión, las suscripciones a un sitio web, las visitas a una página de aterrizaje o la interacción con una publicación en una red social. Es importante, entonces, definir en qué momentos se van a realizar los test de una campaña, de acuerdo con las necesidades de medición que se tiene. Para tal efecto se pueden encontrar:
+    p.mb-4 El postest es un proceso de medición indispensable para determinar si la inversión que se está realizando en publicidad se va a recuperar o se recuperó en algún momento de la campaña, pues muchas campañas tienen efectos inmediatos en el nivel de ventas, el nivel de recordación de una marca o en aspectos más técnicos en cuanto a lo digital, así como el nivel de conversión, las suscripciones a un sitio #[em web], las visitas a una página de aterrizaje o la interacción con una publicación en una red social. Es importante, entonces, definir en qué momentos se van a realizar los test de una campaña, de acuerdo con las necesidades de medición que se tiene. Para tal efecto se pueden encontrar:
     
     .row.justify-content-center.mb-5
       .col-md-6.col-lg-5.mb-5.mb-lg-0(data-aos="fade-right")

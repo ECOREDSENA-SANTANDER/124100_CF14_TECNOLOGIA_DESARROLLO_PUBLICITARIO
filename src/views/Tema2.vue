@@ -153,7 +153,7 @@
                       | Redes sociales.
                     li 
                       i.fas.fa-play
-                      | Web.
+                      span.mb-0 #[em Web].
                     li 
                       i.fas.fa-play
                       | Dispositivos móviles.
@@ -243,13 +243,13 @@
             .row.justify-content-center.mb-3
               .col-5.col-md-4.col-lg-5
                 img(src='@/assets/curso/temas/t2/slyder5.svg' alt='AvatarTop')
-            h5.text-center Interacciones online:  
+            h5.text-center Interacciones #[em online]:  
             p.text-center.mb-0 comunicación con clientes en medios digitales.
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
               .col-5.col-md-4.col-lg-5
                 img(src='@/assets/curso/temas/t2/slyder6.svg' alt='AvatarTop')
-            h5.text-center Interacciones offline:
+            h5.text-center Interacciones #[em offline]:
             p.text-center.mb-0 comunicación con clientes en medios convencionales y por fuera del entorno digital.
 
     h4.tit-tercer.mb-4(data-aos="fade-right") #[span Variable] comercialización: 
@@ -269,7 +269,7 @@
             .col-4.col-md-5.col-lg-4
               img(src='@/assets/curso/temas/t2/icono2.svg', alt='')           
           h4.text-white Ingresos
-          p.text-white.mb-0 Es tal vez el indicador más importante a medir teniendo en cuenta que hace parte del objetivo principal de cualquier empresa, que es el aumento de las ventas y por lo tanto, el incremento en los ingresos.
+          p.text-white.mb-0 Es tal vez el indicador más importante a medir teniendo en cuenta que hace parte del objetivo principal de cualquier empresa, que es el aumento de las ventas y, por lo tanto, el incremento en los ingresos.
       .col-lg-4.col-md-6.mb-3.mb-lg-0
         .tarjeta.color-acento-contenido.p-5.h-100
           .row.mb-4
@@ -326,7 +326,7 @@
     #t_2_3.titulo-segundo.color-secundario(data-aos="fade-right")
       h2 2.3 Cálculo del ROI
     
-    p.mb-4 En el siguiente video, se explica de manera sencilla y con un ejemplo, la manera adecuada de realizar el calculo del ROI.
+    p.mb-4 En el siguiente video, se explica de manera sencilla y con un ejemplo, la manera adecuada de realizar el cálculo del ROI.
 
     figure(data-aos="fade-down")
       .video
