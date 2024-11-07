@@ -226,7 +226,7 @@
               .col-5.col-md-4.col-lg-5
                 img(src='@/assets/curso/temas/t2/slyder2.svg' alt='AvatarTop')
             h5.text-center Educación:
-            p.text-center.mb-0 las marcas deben considerar dentro del desarrollo de su comunicación, mensajes que generen conocimiento en aspectos relacionados con el producto o servicio. Pueden ser mensajes de uso del producto, de sus componentes, fabricación u otro tipo de información relevante para el consumidor.
+            p.text-center.mb-0 las marcas deben considerar, dentro del desarrollo de su comunicación, mensajes que generen conocimiento en aspectos relacionados con el producto o servicio. Pueden ser mensajes de uso del producto, de sus componentes, fabricación u otro tipo de información relevante para el consumidor.
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
               .col-5.col-md-4.col-lg-5

@@ -11,7 +11,7 @@
       .col-lg-3.col-md-6.col-9.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/imag1.png', alt='')
       .col-lg-9(data-aos="fade-left")
-        p Cuando en una empresa se toma la decisión de realizar una campaña publicitaria, una estrategia táctica de comunicación o sencillamente un anuncio, se hace con el fin de obtener respuestas positivas de sus clientes y lograr los objetivos propuestos. Además, la promoción hace parte del mercadeo y es una de sus variables más importantes; nada logra una empresa teniendo un excelente producto si no le comunica al mercado que este existe y está disponible en puntos de venta, que satisface sus necesidades y que presenta ciertos beneficios. Luego, el mercado toma la decisión de compra basado en estas variables, por lo que entre más oportuna y completa sea la información, mayor será el nivel de aceptación del producto o servicio.
+        p Cuando en una empresa se toma la decisión de realizar una campaña publicitaria, una estrategia táctica de comunicación o sencillamente un anuncio, se hace con el fin de obtener respuestas positivas de sus clientes y lograr los objetivos propuestos. Además, la promoción hace parte del mercadeo y es una de sus variables más importantes; nada logra una empresa teniendo un excelente producto si no le comunica al mercado que este existe y está disponible en puntos de venta, que satisface sus necesidades y que presenta ciertos beneficios. Luego, el mercado toma la decisión de compra basada en estas variables, por lo que entre más oportuna y completa sea la información, mayor será el nivel de aceptación del producto o servicio.
         .cajon.color-secundario.bg1.p-4.mb-4
           p.mb-0 Así, el pretest y el postest forman parte del control que se realiza a la campaña publicitaria y de acuerdo con el proceso de la comunicación; este control se lleva a cabo sobre el mensaje, la planeación de las estrategias y los resultados de la campaña.
 
@@ -21,7 +21,7 @@
           .col-lg-2.col-md-2.col-6.mb-3.mb-md-0
             img.w-75.m-auto(src='@/assets/curso/temas/t1/imag2.svg', alt='')
           .col-lg-10.col-md-10
-            p En cuanto #[b al mensaje, este se puede evaluar antes y después del lanzamiento de la campaña;] y un estudio previo a la campaña permite seleccionar el más adecuado, realizar todos los cambios pertinentes y evitar que sea incomprensible, erróneo o ambiguo. Mientras que el análisis posterior permite medir el nivel de comprensión real que el mercado tuvo del mensaje y la realización de correcciones para publicaciones futuras.
+            p En cuanto #[b al mensaje, este se puede evaluar antes y después del lanzamiento de la campaña;] y un estudio previo a la campaña permite seleccionar el más adecuado, realizar todos los cambios pertinentes y evitar que sea incomprensible, erróneo o ambiguo. Mientras que el análisis posterior permite medir el nivel de comprensión real que el mercado tuvo, del mensaje y la realización de correcciones para publicaciones futuras.
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-2.col-md-2.col-6.mb-3.mb-md-0
             img.w-75.m-auto(src='@/assets/curso/temas/t1/imag3.svg', alt='')
@@ -91,7 +91,7 @@
     #t_1_2.titulo-segundo.color-secundario(data-aos="fade-right")
       h2 1.2 Pretest y postest
     
-    p.mb-5(data-aos="fade") Las empresas que han decidido realizar una campaña publicitaria han destinado un presupuesto significativo en la realización de la misma, de ahí la importancia de hacer test a los anuncios que son los elementos que finalmente verá el mercado y que generarán resultados medibles para el cumplimiento de los objetivos. En el desarrollo de una campaña publicitaria la empresa tiene la posibilidad de realizar dos tipos de mediciones: pretest y postest, ambos representan un alto nivel de relevancia para lograr los objetivos de la campaña y permiten minimizar los riesgos en su ejecución.
+    p.mb-5(data-aos="fade") Las empresas que han decidido realizar una campaña publicitaria han destinado un presupuesto significativo en la realización de la misma, de ahí la importancia de hacer test a los anuncios que son los elementos que finalmente verá el mercado y que generarán resultados medibles para el cumplimiento de los objetivos. En el desarrollo de una campaña publicitaria, la empresa tiene la posibilidad de realizar dos tipos de mediciones: pretest y postest, ambos representan un alto nivel de relevancia para lograr los objetivos de la campaña y permiten minimizar los riesgos en su ejecución.
 
     h4.titulo-tercer(data-aos="fade-right") Pretest
 
@@ -267,7 +267,7 @@
         h4.tit-tercer.mb-4(data-aos="fade-right") #[span Pretest] individual
         p.mb-5 Se ejecuta cuando la empresa ha realizado un único anuncio publicitario para publicar en los diferentes medios de comunicación, en este caso los esfuerzos de la investigación se enfocan en conocer la comprensión del mensaje y los posibles ajustes que se deben realizar a la pieza para lograr la mayor efectividad posible.
         h4.tit-tercer.mb-4(data-aos="fade-right") #[span Pretest] múltiple
-        p Este tipo de test se realiza a una campaña conformada por varios anuncios publicitarios y que serán expuestos en diferentes medios. En este caso las mediciones se llevan a cabo para determinar los anuncios con mayor impacto, comprensión y recordación para determinar cuáles tendrán mayor presencia en los medios y, por ende, la manera como se distribuirá el presupuesto de la campaña en cuanto a la pauta.
+        p Este tipo de test se realiza a una campaña conformada por varios anuncios publicitarios y que serán expuestos en diferentes medios. En este caso, las mediciones se llevan a cabo para determinar los anuncios con mayor impacto, comprensión y recordación para determinar cuáles tendrán mayor presencia en los medios y, por ende, la manera como se distribuirá el presupuesto de la campaña en cuanto a la pauta.
     
     h4.titulo-tercer.mb-4(data-aos="fade-right") Postest
     p.mb-5 El postest es un proceso de investigación que se realiza durante el proceso de ejecución de la campaña publicitaria; este permite medir los efectos que ha tenido o tuvo la campaña y el logro de los objetivos de la misma.
@@ -295,7 +295,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
         h4.destacado Penetración: 
-        p.mb-4 En este punto se hace una medición de la recordación que tiene el mensaje y el producto en relación con la campaña. Cuando esta incluye varios anuncios debe hacerse un análisis de cada uno de ellos para determinar el nivel de recordación que estos tienen frente al mercado objetivo. La recordación de un producto o marca es variada dependiendo del tipo de producto y de la interacción del mercado con él. Se pueden definir varios tipos de recordación:
+        p.mb-4 En este punto se hace una medición de la recordación que tiene el mensaje y el producto en relación con la campaña. Cuando esta incluye varios anuncios, debe hacerse un análisis de cada uno de ellos para determinar el nivel de recordación que estos tienen frente al mercado objetivo. La recordación de un producto o marca es variada dependiendo del tipo de producto y de la interacción del mercado con él. Se pueden definir varios tipos de recordación:
       .col-lg-1.col-md-4.col-6
         img(src='@/assets/curso/temas/t1/imag15.svg', alt='')
     
@@ -347,7 +347,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
         h4.destacado Modificación de actitudes e imagen: 
-        p.mb-4 de acuerdo con los objetivos de comunicación que también incluyen aspectos cualitativos, es necesario medir los cambios en las actitudes del mercado objetivo y los cambios en la imagen que el producto o servicio, basado con la percepción del #[em target]. 
+        p.mb-4 de acuerdo con los objetivos de comunicación, que también incluyen aspectos cualitativos, es necesario medir los cambios en las actitudes del mercado objetivo y los cambios en la imagen que el producto o servicio, basado con la percepción del #[em target]. 
       .col-lg-1.col-md-4.col-6
         img(src='@/assets/curso/temas/t1/imag17.svg', alt='')
     
