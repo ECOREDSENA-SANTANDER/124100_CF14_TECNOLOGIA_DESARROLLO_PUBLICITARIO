@@ -218,37 +218,37 @@
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
               .col-5.col-md-4.col-lg-5
-                img(src='@/assets/curso/temas/t2/slyder1.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t2/slyder1.svg' alt='')
             h5.text-center Posicionamiento:
             p.text-center.mb-0 enfatiza en el desarrollo del mensaje y su divulgación por los diferentes medios para generar imagen positiva en la mente del consumidor o cliente.
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
               .col-5.col-md-4.col-lg-5
-                img(src='@/assets/curso/temas/t2/slyder2.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t2/slyder2.svg' alt='')
             h5.text-center Educación:
             p.text-center.mb-0 las marcas deben considerar, dentro del desarrollo de su comunicación, mensajes que generen conocimiento en aspectos relacionados con el producto o servicio. Pueden ser mensajes de uso del producto, de sus componentes, fabricación u otro tipo de información relevante para el consumidor.
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
               .col-5.col-md-4.col-lg-5
-                img(src='@/assets/curso/temas/t2/slyder3.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t2/slyder3.svg' alt='')
             h5.text-center Interacciones externas: 
             p.text-center.mb-0 son actividades desarrolladas fuera del punto de venta para atraer compradores hacia el punto de venta y generar experiencias positivas relacionadas con la marca.
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
               .col-5.col-md-4.col-lg-5
-                img(src='@/assets/curso/temas/t2/slyder4.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t2/slyder4.svg' alt='')
             h5.text-center Interacciones en punto de venta: 
             p.text-center.mb-0 actividades realizadas en el punto de venta; es allí donde se toman en mayor porcentaje las decisiones de compra.
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
               .col-5.col-md-4.col-lg-5
-                img(src='@/assets/curso/temas/t2/slyder5.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t2/slyder5.svg' alt='')
             h5.text-center Interacciones #[em online]:  
             p.text-center.mb-0 comunicación con clientes en medios digitales.
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
               .col-5.col-md-4.col-lg-5
-                img(src='@/assets/curso/temas/t2/slyder6.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/t2/slyder6.svg' alt='')
             h5.text-center Interacciones #[em offline]:
             p.text-center.mb-0 comunicación con clientes en medios convencionales y por fuera del entorno digital.
 
@@ -330,8 +330,8 @@
 
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/mZyUOsgMS-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Cálculo Roi
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/t2C4Ij5mo4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Cálculo Roi 
 
 
 </template>
