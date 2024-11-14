@@ -124,7 +124,7 @@ export default {
       },
     ],
   },
-  complementario: [
+  /*complementario: [
     {
       tema: '',
       referencia: '',
@@ -137,7 +137,7 @@ export default {
       tipo: '',
       descarga: '',
     },
-  ],
+  ],*/
   glosario: [
     {
       termino: 'Audiencia',
